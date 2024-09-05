@@ -1,0 +1,20 @@
+export default [
+    {
+        id:1,
+        name:'Programming',
+        icon:'/coding.png',
+        prompt:''
+    },
+    {
+        id:2,
+        name:'Health',
+        icon:'/lotus.jpg',
+        prompt:''
+    },
+    {
+        id:3,
+        name:'creative',
+        icon:'/creative.png',
+        prompt:''
+    }
+]
